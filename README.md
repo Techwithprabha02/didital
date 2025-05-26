@@ -107,3 +107,5 @@ We envision a world where digital inheritance is as simple, secure, and reliable
 - **Financial Planning Tools**: Integrate with financial planning software to provide comprehensive estate planning solutions
 - **Risk Assessment**: Develop risk assessment tools to help users optimize their digital estate planning strategies
 - **Performance Tracking**: Implement tools to track the performance of inherited assets over time
+ contract address: 0x85A62f6220eD215A14Ca78375eaccB4e032e8864
+![image](https://github.com/user-attachments/assets/6057e356-c5ba-4e1e-8477-762290a07297)
